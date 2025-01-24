@@ -1,0 +1,10 @@
+print("enter 2 numbers")
+n1=input()
+n2=input()
+print("the addition of two number is", int(n1)+int(n2))
+
+print("enter first number")
+none=input()
+print("enter secound number")
+ntwo=input()
+print("the sum of these number is ", int(none) + int(ntwo))
